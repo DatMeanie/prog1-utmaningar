@@ -1,0 +1,6 @@
+C:\github\Meningskonverterare\Meningskonverterare\bin\Debug\Meningskonverterare.exe.config
+C:\github\Meningskonverterare\Meningskonverterare\bin\Debug\Meningskonverterare.exe
+C:\github\Meningskonverterare\Meningskonverterare\bin\Debug\Meningskonverterare.pdb
+C:\github\Meningskonverterare\Meningskonverterare\obj\Debug\Meningskonverterare.csproj.CoreCompileInputs.cache
+C:\github\Meningskonverterare\Meningskonverterare\obj\Debug\Meningskonverterare.exe
+C:\github\Meningskonverterare\Meningskonverterare\obj\Debug\Meningskonverterare.pdb

@@ -1,0 +1,7 @@
+C:\github\Tal-pyramider\Tal-pyramider\bin\Debug\Tal-pyramider.exe.config
+C:\github\Tal-pyramider\Tal-pyramider\bin\Debug\Tal-pyramider.exe
+C:\github\Tal-pyramider\Tal-pyramider\bin\Debug\Tal-pyramider.pdb
+C:\github\Tal-pyramider\Tal-pyramider\obj\Debug\Tal-pyramider.csprojResolveAssemblyReference.cache
+C:\github\Tal-pyramider\Tal-pyramider\obj\Debug\Tal-pyramider.csproj.CoreCompileInputs.cache
+C:\github\Tal-pyramider\Tal-pyramider\obj\Debug\Tal-pyramider.exe
+C:\github\Tal-pyramider\Tal-pyramider\obj\Debug\Tal-pyramider.pdb
