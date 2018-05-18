@@ -1,0 +1,6 @@
+c:\users\elev\documents\visual studio 2017\Projects\Subways\Subways\bin\Debug\Subways.exe.config
+c:\users\elev\documents\visual studio 2017\Projects\Subways\Subways\bin\Debug\Subways.exe
+c:\users\elev\documents\visual studio 2017\Projects\Subways\Subways\bin\Debug\Subways.pdb
+c:\users\elev\documents\visual studio 2017\Projects\Subways\Subways\obj\Debug\Subways.csprojResolveAssemblyReference.cache
+c:\users\elev\documents\visual studio 2017\Projects\Subways\Subways\obj\Debug\Subways.exe
+c:\users\elev\documents\visual studio 2017\Projects\Subways\Subways\obj\Debug\Subways.pdb

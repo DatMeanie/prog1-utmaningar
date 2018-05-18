@@ -1,0 +1,6 @@
+c:\users\elev\documents\visual studio 2017\Projects\Personregister\Personregister\bin\Debug\Personregister.exe.config
+c:\users\elev\documents\visual studio 2017\Projects\Personregister\Personregister\bin\Debug\Personregister.exe
+c:\users\elev\documents\visual studio 2017\Projects\Personregister\Personregister\bin\Debug\Personregister.pdb
+c:\users\elev\documents\visual studio 2017\Projects\Personregister\Personregister\obj\Debug\Personregister.csprojResolveAssemblyReference.cache
+c:\users\elev\documents\visual studio 2017\Projects\Personregister\Personregister\obj\Debug\Personregister.exe
+c:\users\elev\documents\visual studio 2017\Projects\Personregister\Personregister\obj\Debug\Personregister.pdb
