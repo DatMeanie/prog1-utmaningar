@@ -1,0 +1,6 @@
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csprojResolveAssemblyReference.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\bin\Debug\Kalkylator.exe.config
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\bin\Debug\Kalkylator.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\bin\Debug\Kalkylator.pdb
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\obj\Debug\Kalkylator.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\obj\Debug\Kalkylator.pdb
